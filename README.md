@@ -31,4 +31,5 @@ Worked as an undergraduate researcher at The University of Adelaide, developing 
 **Systems & Tools:** Docker, Linux, Git, SQLite, LangSmith, Jupyter
 
 ## Connect
-📫 LinkedIn: linkedin.com/in/dungTnguyen05
+📫 Email: [tridung.190705@gmail.com](mailto:tridung.190705@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/dungTnguyen05](https://linkedin.com/in/dungTnguyen05)
