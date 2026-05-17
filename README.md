@@ -26,8 +26,8 @@ Worked as an undergraduate researcher at The University of Adelaide, developing 
 🏆 1st place — SQUAD × insightfactory.ai Datathon 2025
 
 ## Tech Stack
-**Languages:** Python, C/C++, SQL, MATLAB, R, JavaScript
-**AI/ML:** LangGraph, LangChain, TensorFlow, PyTorch, XGBoost, scikit-learn
+**Languages:** Python, C/C++, SQL, MATLAB, R, JavaScript  
+**AI/ML:** LangGraph, LangChain, TensorFlow, PyTorch, XGBoost, scikit-learn  
 **Systems & Tools:** Docker, Linux, Git, SQLite, LangSmith, Jupyter
 
 ## Connect
