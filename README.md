@@ -27,7 +27,7 @@ Worked as an undergraduate researcher at The University of Adelaide, developing 
 
 ## Tech Stack
 **Languages:** Python, C/C++, C#, SQL, MATLAB, R, JavaScript  
-**AI/ML:** LangGraph, LangChain, TensorFlow, PyTorch, XGBoost, scikit-learn, Transformers, OpenCV
+**AI/ML:** LangGraph, LangChain, TensorFlow, PyTorch, XGBoost, scikit-learn, Transformers, OpenCV  
 **Cloud, Systems & Tools:** AWS, Docker, Linux, Git, SQLite, LangSmith, Jupyter
 
 ## Connect
