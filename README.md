@@ -1,35 +1,43 @@
 # Hi, I'm Tri Dung (Julian) Nguyen 👋
 
-Final-year Bachelor of Computer Science (Artificial Intelligence) student at The University of Adelaide (GPA 7.0/7.0).
+Computer Science (Artificial Intelligence) graduate from The University of Adelaide.
 
-I enjoy building practical AI and software systems that solve real-world problems, especially where machine learning, automation, and engineering reliability intersect.
+I enjoy building practical AI and software systems that solve real-world problems. My interests include AI agents, large language models, machine learning, backend engineering, and data-driven automation.
 
 ## What I Work On
-- AI agents & LLM workflow orchestration
-- Applied machine learning
-- Automation systems
-- Software engineering
-- Data-driven problem solving
+
+- 🤖 AI agents & LLM applications
+- 🧠 Applied machine learning
+- ⚙️ Backend systems & automation
+- 💻 Software engineering
+- 📊 Data analytics & visualization
 
 ## Highlighted Projects
 
-### AI Analytics Agent
-Built a LangGraph-based LLM agent that translates natural language into validated SQL queries using workflow orchestration, conditional routing, validation guardrails, and automated analytics generation.
+### LangGraph SQL Analytics Agent
+Built an end-to-end AI agent using LangGraph and LangChain that translates natural language into safe SQL queries, performs automated statistical analysis, and generates interactive visualizations to support business decision-making.
 
 ### Production AI Deployment
-Developed and deployed a Vietnamese NLP system during my AI internship at Viettel Post, achieving 87% parsing accuracy while reducing inference latency by 27%.
+Developed and deployed a Vietnamese NLP address-parsing system during my AI Engineer internship at Viettel Post, achieving **87% parsing accuracy** while reducing inference latency by **27%** using NVIDIA Triton Inference Server.
 
 ### Research Engineering
-Worked as an undergraduate researcher at The University of Adelaide, developing prototype computer vision / projective geometry algorithms for camera-based positioning systems, improving tracking accuracy by 14%.
+Developed prototype computer vision and projective geometry algorithms for camera-based positioning systems as an undergraduate researcher at The University of Adelaide, improving object tracking accuracy by **14%**.
 
 ### Competition
-🏆 1st place — SQUAD × insightfactory.ai Datathon 2025
+🏆 **1st Place** — SQUAD × insightfactory.ai Datathon 2025, developing an XGBoost pipeline for an imbalanced classification problem.
 
 ## Tech Stack
-**Languages:** Python, C/C++, C#, SQL, MATLAB, R, JavaScript  
-**AI/ML:** LangGraph, LangChain, TensorFlow, PyTorch, XGBoost, scikit-learn, Transformers, OpenCV  
-**Cloud, Systems & Tools:** AWS, Docker, Linux, Git, SQLite, LangSmith, Jupyter
+
+**Languages:** Python, C/C++, C#, SQL, JavaScript, MATLAB, R
+
+**AI & ML:** LangGraph, LangChain, PyTorch, TensorFlow, XGBoost, scikit-learn, Transformers, OpenCV
+
+**Software Engineering:** React, Node.js, Express.js, REST APIs, MySQL, PostgreSQL, SQLite
+
+**Cloud, Systems & Tools:** AWS, Docker, Linux, Git, LangSmith, Jupyter, Qt
 
 ## Connect
-📫 Email: [tridung.190705@gmail.com](mailto:tridung.190705@gmail.com)  
+
+📫 Email: [tridung.190705@gmail.com](mailto:tridung.190705@gmail.com)
+
 💼 LinkedIn: [linkedin.com/in/dungTnguyen05](https://linkedin.com/in/dungTnguyen05)
